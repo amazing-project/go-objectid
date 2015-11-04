@@ -20,7 +20,7 @@ Installation
 ====
 Use the `go` command:
 ```go
-go get github.com/zhengchun/go-objectid
+go get github.com/nobugtodebug/go-objectid
 ```
 
 Example
@@ -30,7 +30,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/zhengchun/go-objectid"
+	"github.com/nobugtodebug/go-objectid"
 )
 
 func main() {
